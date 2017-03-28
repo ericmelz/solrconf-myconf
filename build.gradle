@@ -2,10 +2,10 @@ apply plugin: 'java'
 
 version = System.getenv().BUILD_NUMBER
 
-task zipConf(type: Zip) {
+task tarConf(type: Tar) {
     from 'myconf'
 }
 
 artifacts {
-    archives zipConf
+    archives tarConf
 }
