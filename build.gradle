@@ -1,3 +1,7 @@
 apply plugin: 'java'
 
 version = System.getenv().BUILD_NUMBER
+
+task zipConf(type: Zip) {
+    from 'myconf'
+}
