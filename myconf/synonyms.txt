@@ -18,6 +18,7 @@ cccfoo => cccbar cccbaz
 dddfoo => dddbar dddbaz
 eeefoo => eeebar
 ffffoo => fffbar
+gggfoo => gggbar
 fooaaa,baraaa,bazaaa
 
 # Some synonym groups specific to this example
