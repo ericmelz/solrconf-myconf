@@ -20,6 +20,7 @@ eeefoo => eeebar
 ffffoo => fffbar
 gggfoo => gggbar
 fooaaa,baraaa,bazaaa
+kkkfoo => kkkbar
 
 # Some synonym groups specific to this example
 GB,gib,gigabyte,gigabytes
